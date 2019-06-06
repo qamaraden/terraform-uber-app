@@ -1,4 +1,4 @@
-# Terraform-uber-app
+# Terraform-Uber-App
 
 Used Terraform to automate the process of running the uber app using aws 
 
